@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551822883311",
+    "firebase_url": "https://glassy-song-269316.firebaseio.com",
+    "project_id": "glassy-song-269316",
+    "storage_bucket": "glassy-song-269316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551822883311:android:3071866b784d2332289e1a",
+        "android_client_info": {
+          "package_name": "com.example.locationfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551822883311-gatql0ul3rqv2odbslktsf8fpt6sc3fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locationfinder",
+            "certificate_hash": "6b48de3177db144bdcd6e3916efc949d9d203fe4"
+          }
+        },
+        {
+          "client_id": "551822883311-n7itc6bupk5sufku9gf6j3kmajbfi05j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwbYg8K4dmxpPLkSK0zdefNtcheDol0hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551822883311-n7itc6bupk5sufku9gf6j3kmajbfi05j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
